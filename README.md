@@ -1,2 +1,4 @@
-# CoralVM
-virtual machine designed for coral-lang
+### TODO
+- [x] delineate code from data via sections
+- [ ] support for functions
+- [ ] support for concurrency via green threads
